@@ -4,7 +4,7 @@ Repositório para armazenar resumos e conteúdos relacionados ao curso [Microsof
 
 ## 📚 Documentação
 
-[Git](https://git-scm.com/docs)
+[Git](https://git-scm.com/docs) \
 [MarkDown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## ✏ Aulas
