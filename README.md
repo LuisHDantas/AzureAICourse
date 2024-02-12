@@ -8,5 +8,6 @@ Repositório para armazenar resumos e conteúdos relacionados ao curso [Microsof
 
 ## ✏ Aulas
 
-| Aula | Resumo |
+| Aula | Anotações |
 | - | - |
+|Git & Github| [Arquivo](./resumos/Git.md) |
