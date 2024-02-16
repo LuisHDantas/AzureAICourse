@@ -10,4 +10,5 @@ Repositório para armazenar resumos e conteúdos relacionados ao curso [Microsof
 ## ✏ Aulas
 
 | Aula | Anotações |
+| - | - |
 | Fundamentos IA | [Notes](/resumos/FundamentosIA.md) |
