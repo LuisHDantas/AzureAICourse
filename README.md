@@ -12,3 +12,4 @@ Repositório para armazenar resumos e conteúdos relacionados ao curso [Microsof
 | Aula | Anotações |
 | - | - |
 | Fundamentos IA | [Notes](/resumos/FundamentosIA.md) |
+| Visão Computacional | [Notes](/resumos/VisaoComputacional.md) |
