@@ -38,3 +38,13 @@ Busca emular a rede neural humana
 [Azure Machine Learning](https://ml.azure.com/) [(Documentação)](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
 - Plataforma baseada em nuvem para aprendizado de máquina
 
+## Noções básicas de Azure AI
+
+| | |
+| - | - |
+| Aprendizado de Máquina Azure | Plataforma para treinar, implantar e gerencial modelos de aprendizado de máquina |
+| Serviços de IA do Azure | Conjunto de serviços que abrange visão, fala, linguagem, decisão e IA generativa |
+| Pesquisa Cognitiva Azure | Extração, enriquecimento e indexação de dados para pesquisa |
+
+[Link 1 - Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)\
+[Link 2 - Content Safety](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
